@@ -4,8 +4,6 @@ A minimal Electron application to demonstrate the basic structure and workflow o
 
 ---
 
-## 🚀 Getting Started
-
 ### Prerequisites
 - **Node.js** (LTS version recommended)
 - **npm** (comes with Node.js)
